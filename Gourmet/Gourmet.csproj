@@ -89,7 +89,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSS\bootstrap.min.css" />
+    <Content Include="CSS\cover.css" />
+    <Content Include="CSS\ie10-viewport-bug-workaround.css" />
     <Content Include="Global.asax" />
+    <Content Include="Items\forkknife.jpg" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\ie-emulation-modes-warning.js" />
+    <Content Include="js\ie10-viewport-bug-workaround.js" />
     <Content Include="Styles\MainStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
